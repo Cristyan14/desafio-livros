@@ -57,10 +57,4 @@ Este é um sistema Java desenvolvido com Spring Boot que permite buscar, registr
 
 ---
 
-## 💻 Como executar o projeto localmente
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
